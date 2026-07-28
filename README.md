@@ -1,4 +1,4 @@
-# Game Asset Studio (Executable Version)
+# GAME MAPPING ASSET STUDIO (Executable Version)
 
 ## Overview
 
